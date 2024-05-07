@@ -1,0 +1,6 @@
+[
+  "{ id: 1, first_name: Julie, price_per_shift: 230, payment: 690 }",
+  "{ id: 2, first_name: Marc, price_per_shift: 100, payment: 300 }",
+  "{ id: 3, first_name: Antoine, price_per_shift: 230, payment: 460 }",
+  "{ id: 4, first_name: Emilie, price_per_shift: 100, payment: 200 }"
+]
