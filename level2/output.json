@@ -1,0 +1,6 @@
+[
+  "{ id: 1, first_name: Julie, status: medic, payment: 810 }",
+  "{ id: 2, first_name: Marc, status: medic, payment: 810 }",
+  "{ id: 3, first_name: Antoine, status: interne, payment: 252 }",
+  "{ id: 4, first_name: Emilie, status: medic, payment: 540 }"
+]
