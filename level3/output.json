@@ -1,0 +1,16 @@
+[
+  [
+    {"id":1,"first_name":"Julie","status":"medic","payment":270},
+    {"id":2,"first_name":"Marc","status":"medic","payment":810},
+    {"id":3,"first_name":"Antoine","status":"interne","payment":630},
+    {"id":4,"first_name":"Emilie","status":"medic","payment":810}
+  ],
+  [
+    {
+      "id": 9,
+      "planning_id": 1,
+      "user_id": null,
+      "start_date": "2017-1-9"
+    }
+  ]
+]
