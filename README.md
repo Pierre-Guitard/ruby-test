@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# ruby-test
-=======
 # Edulib Backend Ruby Challenge
 
 ## Guidelines
@@ -20,4 +17,3 @@ For higher levels we are interested in seeing code that is:
 - clean
 - extensible
 - robust (don't overlook edge cases, use exceptions where needed, ...)
->>>>>>> level3
